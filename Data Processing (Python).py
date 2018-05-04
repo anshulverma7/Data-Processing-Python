@@ -2,8 +2,6 @@
 
 # Data Processing 
 
-# EM624 - Exercise 05
-
 # to import matplotlib
 import matplotlib.pyplot as plt
 
